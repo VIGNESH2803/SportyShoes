@@ -8,6 +8,7 @@ c)	User Sign In
 d)	User Main Page & Add to Cart
 e)	View Cart & Place Order
 f)	View Order Details
+
 2. Application Administration
 a)	Admin Login
 b)	Manage Users
@@ -44,10 +45,12 @@ c)	User Sign In
 d)	User Main Page & Add to Cart
 e)	View Cart & Place Order
 f)	View Order Details
+
 Application Administration
 a)	Admin Login
 b)	Manage Users
 a.	View List of Users
+
 2	Application Administration
 c)	Manage Users
 a.	Edit User Information
